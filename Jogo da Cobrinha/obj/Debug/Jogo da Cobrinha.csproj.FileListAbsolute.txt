@@ -9,3 +9,14 @@ C:\Users\Sami\Projetos\Jogo da Cobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobri
 C:\Users\Sami\Projetos\Jogo da Cobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.csproj.CoreCompileInputs.cache
 C:\Users\Sami\Projetos\Jogo da Cobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.exe
 C:\Users\Sami\Projetos\Jogo da Cobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.pdb
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\bin\Debug\Jogo da Cobrinha.exe.config
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\bin\Debug\Jogo da Cobrinha.exe
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\bin\Debug\Jogo da Cobrinha.pdb
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.csproj.AssemblyReference.cache
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo_da_Cobrinha.Form1.resources
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo_da_Cobrinha.Properties.Resources.resources
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.csproj.GenerateResource.cache
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.exe
+C:\Users\Sami\Projetos\Jogo da Cobrinha\jogodacobrinha\Jogo da Cobrinha\obj\Debug\Jogo da Cobrinha.pdb
